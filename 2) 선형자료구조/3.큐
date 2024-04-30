@@ -1,0 +1,13 @@
+3. 큐(Que)
+선입선출/FIFO - 입력된 순서로 자료 접근
+
+자료 삽입/삭제 장소 다름
+
+자료 처리: push()/pop()/empty()
+front/back(rear)
+overflow/underflow
+큐가 비어있음을 어떻게 알 수 있는가?
+
+원형 큐 - 양방향 입출력
+
+empty 검사하지 않으면 오류
